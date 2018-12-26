@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-06_1651",
-    "currentPage": "index.html",
+    "currentPage": "OurOffer_page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3189,6 +3189,9 @@
             },
             ".mbr-timeline-text": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "timeline1",
